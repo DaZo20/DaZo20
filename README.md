@@ -16,7 +16,7 @@ David</a></h1>
 <a href="https://kotlinlang.org/docs/home.html" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" height="50" width="50" /></a>
 <a href="https://developer.android.com/docs?hl=es-419" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/android/android-icon.svg" height="50" width="50" /></a>
 <a href="https://git-scm.com/doc" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="50" width="50" /></a>
-<a href="https://git-scm.com/doc" target="blank"><img align="center" src="https://iconduck.com/icons/60851/android-studio?shared" height="50" width="50" /></a>
+
 
 
 ### ⚙️ &nbsp;GitHub Analytics
@@ -24,6 +24,8 @@ David</a></h1>
 <p align="center">
 <a href="https://github.com/DaZo20">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DaZo20&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+</a>
+  <a href="https://github.com/DaZo20">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DaZo20&layout=compact&langs_count=8&theme=gruvbox"/>
 </a>
 </p>
