@@ -9,7 +9,7 @@ David</a></h1>
 ## About me <img src = "https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width = 64px>
 - Mobile developer 📱
 - Computer engineering student 👨‍🎓
-- Currently working at Devinet 2013 S.L.U 💻
+- Currently working at Carver Advanced Systems S.L. 💻
 
 ## Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 24px>
 <a href="https://firebase.google.com/?hl=es-419" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="50" width="50" /></a>
