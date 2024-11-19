@@ -4,7 +4,7 @@ David</a></h1>
 
 <a href="https://imgur.com/ZiWrLaH"><img src="https://i.imgur.com/ZiWrLaH.jpg" title="source: imgur.com" /></a>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-mu%C3%B1oz-olaya/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:david.munyoz97@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dmolaya.dev@gmail.com)
 
 ## About me <img src = "https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width = 64px>
 - Mobile developer 📱
