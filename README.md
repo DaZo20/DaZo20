@@ -5,7 +5,7 @@ David</a></h1>
 <a href="https://imgur.com/ZiWrLaH"><img src="https://i.imgur.com/ZiWrLaH.jpg" title="source: imgur.com" /></a>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-mu%C3%B1oz-olaya/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dmolaya.dev@gmail.com)
-
+---
 ## About me <img src = "https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width = 64px>
 - Mobile developer 📱
 - Computer engineering student 👨‍🎓
@@ -17,7 +17,7 @@ David</a></h1>
 <a href="https://developer.android.com/docs?hl=es-419" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/android/android-icon.svg" height="50" width="50" /></a>
 <a href="https://git-scm.com/doc" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="50" width="50" /></a>
 
-
+---
 
 ### ⚙️ &nbsp;GitHub Analytics
 
